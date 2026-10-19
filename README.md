@@ -24,3 +24,9 @@ The `fitfolio.svg` wallpaper is original. Fitfolio OS is an independent Ubuntu c
 
 See [FEATURES.md](FEATURES.md) for three local tools included for fitness tracking.
 
+
+The installer also includes three purpose-specific applications: **Audacity, Foliate, KeePassXC**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Audacity, Foliate, KeePassXC**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GIMP, Foliate, Audacity**. See [FEATURES.md](FEATURES.md).
