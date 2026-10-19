@@ -39,3 +39,25 @@ The setup installs these ten Flathub apps selected for fitness tracking:
 10. **Disk Usage Analyzer** — find large files and manage storage (org.gnome.baobab)
 
 Flathub distributes the app packages. Check each publisher license and terms. This repository contains app IDs and documentation, not third-party binaries.
+
+## Fifteen more purpose-specific preinstalled applications
+
+These applications add tools suited to this setup focus. They are installed from Flathub by the setup scripts.
+
+1. **GeoGebra Classic** (org.geogebra.GeoGebra) — explore geometry, algebra, graphing, and 3D math.
+2. **Stellarium** (org.stellarium.Stellarium) — explore a planetarium sky for astronomy learning.
+3. **Evolution** (org.gnome.Evolution) — manage email, calendars, and contacts.
+4. **Thunderbird** (org.mozilla.Thunderbird) — manage email and communication accounts.
+5. **Xournal++** (com.github.xournalpp.xournalpp) — annotate PDFs and take handwritten notes.
+6. **JabRef** (org.jabref.jabref) — organize BibTeX references and research citations.
+7. **Shotwell** (org.gnome.Shotwell) — import, sort, and make quick edits to photo libraries.
+8. **digiKam** (org.kde.digikam) — catalog, tag, and batch-process large photo collections.
+9. **Gitg** (org.gnome.gitg) — review Git history and branches graphically.
+10. **DBeaver Community** (io.dbeaver.DBeaverCommunity) — browse, query, and manage SQL databases.
+11. **MuseScore Studio** (org.musescore.MuseScore) — write, play back, and print sheet music.
+12. **LMMS** (io.lmms.LMMS) — compose electronic music and loops.
+13. **GNOME Logs** (org.gnome.Logs) — inspect logs during troubleshooting.
+14. **Zotero** (org.zotero.Zotero) — manage research sources and citations.
+15. **Anki** (net.ankiweb.Anki) — create spaced-repetition study decks.
+
+Emulator frontends do not include game ROMs or copyrighted game files; supply only files you are legally allowed to use.
