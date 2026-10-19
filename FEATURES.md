@@ -61,3 +61,25 @@ These applications add tools suited to this setup focus. They are installed from
 15. **Anki** (net.ankiweb.Anki) — create spaced-repetition study decks.
 
 Emulator frontends do not include game ROMs or copyrighted game files; supply only files you are legally allowed to use.
+
+## Fifteen further purpose-specific preinstalled applications
+
+This second batch adds another set of apps selected for this setup’s purpose. They are installed from Flathub by the setup scripts.
+
+1. **KAlarm** (org.kde.kalarm) — schedule reminders and recurring task alerts.
+2. **KCalc** (org.kde.kcalc) — run scientific and unit calculations for coursework or technical work.
+3. **Kontact** (org.kde.kontact) — organize email, calendars, contacts, and schedules in one workspace.
+4. **KMyMoney** (org.kde.kmymoney) — track household or small-business accounts, categories, and budgets.
+5. **Marknote** (org.kde.marknote) — keep structured Markdown notes and project notebooks.
+6. **KleverNotes** (org.kde.klevernotes) — capture and manage Markdown notes for projects and research.
+7. **Okular** (org.kde.okular) — read, bookmark, and annotate technical drawings, reading lists, and reference PDFs.
+8. **Kate** (org.kde.kate) — edit configuration, code, notes, and structured project files.
+9. **Ark** (org.kde.ark) — open and create common project archive files.
+10. **Dolphin** (org.kde.dolphin) — organize project assets and inspect folders.
+11. **Filelight** (org.kde.filelight) — find large folders and reclaim disk space.
+12. **Warehouse** (io.github.flattool.Warehouse) — review installed Flatpaks, manage versions, and clean app data.
+13. **Rnote** (com.github.flxzt.rnote) — sketch diagrams, write by hand, and annotate pictures or documents.
+14. **KGeography** (org.kde.kgeography) — practice country, capital, and map recognition.
+15. **KStars** (org.kde.kstars) — plan sky observations and explore astronomy simulations.
+
+Game frontends do not include proprietary game data; add only games or files you are allowed to use.

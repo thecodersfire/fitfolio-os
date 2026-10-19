@@ -37,3 +37,20 @@ io.lmms.LMMS
 org.gnome.Logs
 org.zotero.Zotero
 net.ankiweb.Anki
+
+# Fifteen further preinstalled purpose-specific applications
+org.kde.kalarm
+org.kde.kcalc
+org.kde.kontact
+org.kde.kmymoney
+org.kde.marknote
+org.kde.klevernotes
+org.kde.okular
+org.kde.kate
+org.kde.ark
+org.kde.dolphin
+org.kde.filelight
+io.github.flattool.Warehouse
+com.github.flxzt.rnote
+org.kde.kgeography
+org.kde.kstars
