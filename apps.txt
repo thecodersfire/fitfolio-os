@@ -54,3 +54,4 @@ io.github.flattool.Warehouse
 com.github.flxzt.rnote
 org.kde.kgeography
 org.kde.kstars
+org.blender.Blender

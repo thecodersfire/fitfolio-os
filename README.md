@@ -25,4 +25,4 @@ The `fitfolio.svg` wallpaper is original. Fitfolio OS is an independent Ubuntu c
 See [FEATURES.md](FEATURES.md) for three local tools included for fitness tracking.
 
 
-The installer includes 43 purpose-specific applications beyond its core selection; the complete list is in [FEATURES.md](FEATURES.md).
+Blender is included in every setup, alongside the purpose-specific apps listed in [FEATURES.md](FEATURES.md).
